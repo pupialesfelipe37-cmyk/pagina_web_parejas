@@ -83,7 +83,7 @@ section {
     z-index: 1000;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* Sombra para que resalte sobre el fondo */
     width: 100%;
-    border-bottom: 8px solid #3e5a75;
+    border-bottom: 8px solid #7c4c2c;
 }
 
 .contenedor-menu {
