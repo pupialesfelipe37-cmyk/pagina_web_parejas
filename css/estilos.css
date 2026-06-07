@@ -76,7 +76,7 @@ section {
 }
 /* Menú Superior */
 .menu-superior {
-    background-color: #5b82a8; /* Azul - Así es visible */
+    background-color: #fdfbd4; /* Azul - Así es visible */
     padding: 15px 0;
     position: sticky; 
     top: 0;
