@@ -181,7 +181,7 @@ section {
 }
 
 .boton-anadir {
-    background-color: #0062FF; /* Verde "Comprar" */
+    background-color: #432918; /* Verde "Comprar" */
     color: white;
     border: none;
     padding: 10px 20px;
@@ -192,5 +192,5 @@ section {
 }
 
 .boton-anadir:hover {
-    background-color: #1e8449;
+    background-color: #fdfbd4;
 }
